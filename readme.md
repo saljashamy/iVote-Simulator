@@ -1,6 +1,6 @@
 # iVote Simulator
 
-Console simulator of web-based classroom response system with real-time results and feedback to polls. 
+Console simulator of classroom polling and voting system with real-time results. 
 
 #### Features:
 - Create polls for either a question with a single answer or multiple answers.
